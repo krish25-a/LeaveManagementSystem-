@@ -102,3 +102,8 @@ Leave Type View
 - UI components powered by Bootstrap
 - Icons provided by Font Awesome
 - Database and ORM managed with Entity Framework Core
+
+## 👨‍💻 Author
+ - Github: krish25-a
+
+⭐ Star this repo if you find it helpful! 
