@@ -59,9 +59,6 @@ Register Page
 Login Page
 ![login](https://user-images.githubusercontent.com/99231323/218284832-30da8133-ba25-4928-9563-fe613e7e6c9c.png)
 
-Homepage (Initial Opening Page)
-![homepage](https://user-images.githubusercontent.com/99231323/218284841-a4bf2a14-0911-4f2b-b41e-f2445467ea3d.png)
-
 Employee Login
 Apply for leave
 ![apply for leave](https://user-images.githubusercontent.com/99231323/218284863-ae84f018-8e5a-4b33-aae5-ff3b6c10398a.png)
@@ -80,26 +77,3 @@ Employee Leave Allocation View
 
 Leave Type View
 ![leavetypelist](https://user-images.githubusercontent.com/99231323/218284944-331fc86e-f927-41bc-b666-4686d0ab6413.png)
-
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | Links |
-| ------ | ------ |
-| Font Awesome | [https://fontawesome.com/icons][PlDb] |
-| Sweetalert | [https://sweetalert2.github.io/] |
-| Datepicker |[https://jqueryui.com/datepicker/][PlGd] |
-
-## Contribute
-Want to contribute? Great!
-
-Do a pull request. [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://github.com/trevoirwilliams/LeaveManagementWeb.NET/pulls)
-
-Join our Discord Channel [![Discord code-with-trev](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/channels/964216683256496228/1006601536186617876)
-
-## License
-
----
