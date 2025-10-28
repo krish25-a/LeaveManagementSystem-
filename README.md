@@ -1,5 +1,5 @@
 # Leave Management System
-## _Beginners Guide_
+## Description 
 
 <!-- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) -->
 
