@@ -77,3 +77,21 @@ Employee Leave Allocation View
 
 Leave Type View
 ![leavetypelist](https://user-images.githubusercontent.com/99231323/218284944-331fc86e-f927-41bc-b666-4686d0ab6413.png)
+
+## Usage 
+
+ ## 🧑‍💼 Employee Usage
+ 
+- Register and Login
+- Apply for Leave
+- View Leave Status
+- Check Leave Balance
+- Update Profile Details
+
+## 👨‍💼 Admin Usage
+
+- Admin Login
+- Manage Leave Types
+- Allocate Leaves to Employees
+- View and Approve/Reject Leave Requests
+- Manage Employee Records
