@@ -5,7 +5,10 @@
 
 <!-- [![Build Status]()]() -->
 
-This project is an interactive leave application portal that includes Employee login and administration Login. Employees can apply for leave and view leave status (i.e. the amount of leave remaining for a specific leave type and see leave that they are allowed.). Administration can either accept or reject an employee leave request.
+This Leave Management System is a web-based application designed to simplify and automate the process of managing employee leave requests within an organization. The system provides separate logins for Employees and Administrators, offering an intuitive interface and smooth user experience.Employees can easily apply for leaves, check leave balances, and track approval status in real-time. The system ensures transparency by allowing users to view detailed information about their leave history and available leave types.
+
+Administrators have full control over the management process — they can create custom leave types, allocate leave quotas to employees, and review, approve, or reject leave requests through an organized dashboard. This reduces manual paperwork and helps maintain accurate leave records efficiently.
+The project demonstrates the use of ASP.NET Core MVC architecture, Entity Framework Core, and Microsoft SQL Server to deliver a secure, scalable, and maintainable leave management solution suitable for organizations of any size.
 
 ## Features
 
