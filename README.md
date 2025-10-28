@@ -95,3 +95,10 @@ Leave Type View
 - Allocate Leaves to Employees
 - View and Approve/Reject Leave Requests
 - Manage Employee Records
+
+## 🙏 Acknowledgments
+
+- Built with ASP.NET Core
+- UI components powered by Bootstrap
+- Icons provided by Font Awesome
+- Database and ORM managed with Entity Framework Core
